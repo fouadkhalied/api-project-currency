@@ -1,0 +1,22 @@
+.App-veiwmode-box
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+.App-linechart1 , .App-barchart1
+{
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 10px;
+  position: relative;
+}
+.close
+{
+  position: absolute;
+  right: 0px
+} 
+.buttons
+{
+  display: flex;
+  justify-content: space-evenly;
+}
